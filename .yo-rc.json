@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "cluster",
+    "packageName": "fs.sicarius.cluster",
+    "packageFolder": "fs/sicarius/cluster",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "13895fd144df351a75960c61ecdef05f36ca392d"
+  }
+}
